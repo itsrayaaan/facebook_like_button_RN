@@ -26,7 +26,7 @@ Install the Dependencies
   cd ios && pod install
 ```
 
-Run it on your device
+Run it on your device or simulator
 
 ```bash
   react-native run-ios
