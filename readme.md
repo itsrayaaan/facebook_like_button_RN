@@ -13,7 +13,7 @@ This is an implementation of Facebook's Like Button Reactions in React Native.
 Clone this repository.
 
 ```bash
-  git clone
+  git clone git@github.com:itsrayaaan/facebook_like_button_RN.git
 
   cd emojiButton
 ```
